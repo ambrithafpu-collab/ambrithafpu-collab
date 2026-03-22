@@ -1,20 +1,36 @@
 # Hi, I'm Ambritha 👋
 
-🔬 Microbiology enthusiast  
+🔬 Microbiology Enthusiast  
 🐍 Learning Python for Data Analysis  
 🧬 Interested in Bioinformatics & Microbiome Research  
 
-## 💻 My Projects
-- Data Analysis using Python  
-- Microbiome Analysis (in progress)
+---
 
-## 🎯 Career Goal
-To become a Bioinformatics Data Analyst  
+## 💻 Projects
+- 📊 Data Analysis using Python  
+- 🧬 Microbiome Data Analysis (in progress)  
+
+---
+
+## 🛠️ Skills
+- Python (Basics)  
+- Pandas  
+- Matplotlib  
+- Data Analysis  
+
+---
 
 ## 📚 Currently Learning
-- Python  
-- Data analysis (Pandas, Matplotlib)  
-- Bioinformatics basics  
+- Bioinformatics  
+- Microbiome data analysis  
+- Advanced Python  
+
+---
+
+## 🎯 Career Goal
+To become a **Bioinformatics Data Analyst**  
+
+---
 
 ## 📫 Contact
 - GitHub: https://github.com/ambrithafpu-collab
