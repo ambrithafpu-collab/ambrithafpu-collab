@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ambritha 👋
 
-<!--
-**ambrithafpu-collab/ambrithafpu-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Microbiology enthusiast  
+🐍 Learning Python for Data Analysis  
+🧬 Interested in Bioinformatics & Microbiome Research  
 
-Here are some ideas to get you started:
+## 💻 My Projects
+- Data Analysis using Python  
+- Microbiome Analysis (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Career Goal
+To become a Bioinformatics Data Analyst  
+
+## 📚 Currently Learning
+- Python  
+- Data analysis (Pandas, Matplotlib)  
+- Bioinformatics basics  
+
+## 📫 Contact
+- GitHub: https://github.com/ambrithafpu-collab
