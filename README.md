@@ -1,4 +1,5 @@
 # Hi, I'm Ambritha 👋
+💡 Passionate about applying data analysis to biological research
 
 🔬 Microbiology Enthusiast  
 🐍 Learning Python for Data Analysis  
